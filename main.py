@@ -1,0 +1,1 @@
+print("Ninja is good singer!")
