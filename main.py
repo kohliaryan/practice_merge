@@ -1,1 +1,1 @@
-print("Ninja is good singer!")
+print("Ninja is good singer but all his songs are written by others like Janni and Sidhu Moose Wala")
