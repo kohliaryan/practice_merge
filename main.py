@@ -1,1 +1,1 @@
-print("Ninja is good singer!")
+print("Sidhu Moose wala is best ever singer!")
